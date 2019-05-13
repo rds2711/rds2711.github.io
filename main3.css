@@ -1,0 +1,32 @@
+*{
+
+	margin: 0;
+	padding: 0;
+}
+.head-part{
+     max-width: 1200px;
+    margin: 0 auto;
+}
+  
+.header-part{
+     background: #fff;
+     border-bottom: 2px solid yellow;
+}
+.head-part h1{
+    float:right;
+	padding-right: 510px;
+	padding-top: 30px;
+    text-align: center;
+    
+}
+
+
+body{
+	background-image: url('cssphoto1.jpg');
+	
+}
+.title{text-align:center;
+	padding: 30px 30px;
+    border-bottom: 2px solid yellow;
+    background-color: rgba(0,0,0,0.1);
+}

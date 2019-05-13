@@ -1,0 +1,224 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.head-part{
+     max-width: 1200px;
+   margin: 0 auto;
+}
+.header-part{
+     background: #fff;
+     border-bottom: 5px solid black;
+     background-image: url('cssphoto3.jpg');
+}
+.head-part h1{
+    float:right;
+	padding-right: 550px;
+	padding-top: 30px;
+
+} 
+body{
+	background-image: url('cssphoto9.jpg');
+	
+}
+.infomain ul li{
+	display: inline-block;
+    
+}
+ .infomain ul li a{
+	padding: 10px;
+	text-decoration: none;
+	color :rgb(220,220,225);
+	border:2px solid rgb(220,220,225);
+
+}
+.infomain ul{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-right: 250px;
+	padding-left: 860px;
+	float: right;
+}
+.infomain ul{
+    background: #fff;
+    background-color: rgba(0,0,0,0.3);	
+}
+.infomain ul li a:hover{
+	background-color: rgb(60,60,60);
+}
+.footer-part{
+	background: #fff;
+    text-align: center;
+    padding: 10px;
+}
+.text {
+	font-size: 30px;
+}
+.main-body p{
+	padding-bottom: 150px;
+	text-align: center;
+}
+.main{	
+	float: left;
+}
+.title{text-align:center;
+	padding: 30px ;
+   
+   
+     margin: 0 auto;
+     text-align: left;
+     max-width: 1200px;
+}
+.type1{
+	margin: 0 auto;
+	max-width: 1200px;   
+}
+.type2{
+	margin: 0 auto;
+	max-width: 1200px;   
+}
+
+.type1 ul li{
+  display: inline-block;
+}
+.type2 ul li{
+  display: inline-block;
+}
+.type1 ul li a img{
+border-radius: 50%;
+}
+.type2 ul li a img{
+border-radius: 50%;
+}
+.type1 ul{
+	padding-left: 350px;
+}
+.type1 ul li{
+	padding: 30px 30px;
+}
+.type2 ul{
+	padding-left: 430px;
+}
+.type2 ul li{
+	padding: 30px 30px;
+}
+.type3 ul{
+	padding-left: 340px;
+	font-size: 30px;
+}
+.type3 ul li{
+	padding: 30px 30px;
+	list-style-type: none;
+}
+.info ul li{
+	display: inline-block;   
+}
+ .info ul li a{
+	padding: 10px;
+	text-decoration: none;
+	color :rgb(240,240,245);
+	border:2px solid rgb(220,220,225);
+}
+.info ul{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-right: 250px;
+	padding-left: 876px;
+	float: right;
+}
+.info ul{
+    background: #fff;
+    background-color: rgba(0,0,0,0.3);	
+}
+.info ul li a:hover{
+	background-color: rgb(60,60,60);
+}
+.asd{
+	border:2px solid yellow;
+	margin: 500px;
+}
+.acads{
+	margin: 0 auto;
+	max-width: 1200px;
+}
+.acads{
+	display: inline-block;
+}
+.acads ul{
+	padding-left: 350px;
+}
+.acads ul li{
+	list-style-type: none; 
+	padding: 10px 10px;
+	font-size: 20px;
+}
+.acads b{
+	font-size: 35px;
+	background-color: rgba(100,100,100,0.2);
+}
+.acads ul li a{
+	text-decoration: none;
+}
+.title1{
+	text-align:center;
+	padding: 30px ;
+    font-size: 25px;
+    margin: 0 auto;
+    text-align: left;
+    max-width: 1200px;
+      }
+  .title2{
+  	text-align:center;
+	padding: 30px ;
+    font-size: 25px;
+    margin: 0 auto;
+    text-align: left;
+    max-width: 1200px;
+     }   
+ .hobbies1 ul li{
+ 	display: inline-block;
+ }
+.hobbies2 ul li{
+ 	display: inline-block;
+ }
+.hobbies1 ul{
+	padding-left: 350px;
+}
+.hobbies1 ul li{
+	padding: 20px 20px;
+	font-size: 40px;
+	border: 2px solid rgb(20,50,100);
+	margin: 15px;
+	background-color: rgba(0,0,0,0.1)
+}
+.hobbies2 ul{
+	padding-left: 350px;
+}
+.hobbies2 ul li{
+	padding: 20px 20px;
+	font-size: 40px;
+	border: 2px solid rgb(20,50,100);
+	margin: 15px;
+	background-color: rgba(0,0,0,0.1)
+}
+.hobbies1 ul li.h1:hover{
+	background-image: url('readingbooks.jpg');
+}
+.hobbies1 ul li.h2:hover{
+	background-image: url('coding.jpg');
+}
+.hobbies2 ul li.h3:hover{
+	background-image: url('playingcricket.jpg');    
+}
+.hobbies2 ul li.h4:hover{
+	background-image: url('gaming.jpg');   
+}
+
+
+
+
+
+
+
